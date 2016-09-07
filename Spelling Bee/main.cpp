@@ -26,9 +26,6 @@ int main()
         cout<<"file is not open";
     }
 
-    cout<<p.GetSize()<<"\n";
-    cout<<p.GetCollisions()<<"\n";
-
     char* letters = new char[6];
     char mid;
     cout<<"Enter Middle Letter"<<"\n";
