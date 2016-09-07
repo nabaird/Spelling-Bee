@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1473277754 source:c:\users\natty\desktop\c++ files\spelling bee\algorithm.cpp
+	<iostream>
+	<string>
+	"Algorithm.h"
+	"TestHash.h"
+
+1473278189 c:\users\natty\desktop\c++ files\spelling bee\algorithm.h
+	<iostream>
+	<string>
+	"TestHash.h"
+
+1473278189 c:\users\natty\desktop\c++ files\spelling bee\testhash.h
+	<iostream>
+	<string>
+
+1473279087 source:c:\users\natty\desktop\c++ files\spelling bee\hashtable.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"TestHash.h"
+
+1473279172 source:c:\users\natty\desktop\c++ files\spelling bee\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"TestHash.h"
+	"Algorithm.h"
+
