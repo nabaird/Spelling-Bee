@@ -1,4 +1,4 @@
-# Spelling-Bee C++
+# Spelling-Bee 
 Solves The New York Magazine's Spelling Bee puzzle
 
 To test some coding ideas and strategies I had recently acquired I wrote a program which solves the ‘Spelling Bee’ puzzle published in issues of The New York Magazine. The puzzle provides 6 ‘minor’ English characters and 1 ‘major’ English character. Out of the 7 characters total one must construct words greater than 5 characters. Words must always contain the major character at least once (letters can appear multiple times per word). The more words one can come up with which fit these restrictions, the better the solution. 
